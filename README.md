@@ -32,6 +32,6 @@ For clients
 
 + Analyzes behavior the clients of the corporation with probe requests
 
-**Example:**
+**Screenshots:**
 
 <img src="https://github.com/WiPi-Hunter/PiUser/blob/master/images/piuser.png" height="%50" width="60%">
