@@ -20,7 +20,8 @@
 
 #### Purpose
 
-Analyze  **user behavior against fake access points.**
+📡 Examine probe requests in the environment to determine if they have previously connected to the malicious network
+📡 Thus, the number of people who are likely to fall into the potentially fake access point in the environment is determined
 
 For corporation environment
 
