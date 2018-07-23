@@ -45,3 +45,32 @@ For clients
 #### DEMO
 
 + https://www.youtube.com/watch?v=CYt1JnEZfcU
+
+----
+
+### Usage (for Linux)
+
+#### Requirements
+
+* **Modules:** time, termcolor, commands, interfaces, os
+* **OS:** Kali, Ubuntu
+* **Python Version:** 2.x
+
+Download PiUser:
+
+`git clone https://github.com/WiPi-Hunter/PiUser.git`
+
+Install Python librarie(s):
+
+`pip install -r requirements.txt`
+
+It's done!
+
+Run the program with following command: 
+
+Run:
+
+```python
+cd PiUser
+python piuser.py
+```
