@@ -82,7 +82,7 @@ if __name__ == "__main__":
 	    PiUser(probereq_list)
             if len(mal_probe) != 0:
                 print "[*] Analyzed ", len(probereq_list), "Probe Request(s)"
-                print "[*] Find ", len(mal_probe), "critical probe request!!!"
+                print "[*] Found ", len(mal_probe), "critical probe request!!!"
                 print "[*] Critical Probe Requests:"
                 for i in mal_probe:
 		    print " [-] MAC: ", i.split("*-*")[0], " Critical SSID: ", i.split("*-*")[1]
